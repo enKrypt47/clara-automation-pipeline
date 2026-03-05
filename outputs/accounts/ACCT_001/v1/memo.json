@@ -1,0 +1,22 @@
+{
+  "account_id": "ACCT_001",
+  "company_name": null,
+  "business_hours": null,
+  "office_address": null,
+  "services_supported": [
+    "sprinkler repair",
+    "fire alarm inspection"
+  ],
+  "emergency_definition": [
+    "sprinkler leak",
+    "fire alarm triggered"
+  ],
+  "emergency_routing_rules": null,
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": null,
+  "integration_constraints": null,
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": null,
+  "notes": "Generated from demo transcript"
+}

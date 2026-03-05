@@ -1,0 +1,11 @@
+Just confirming our operational details for the setup.
+
+Our office hours are Monday through Friday from 8 AM to 5 PM Central Time.
+
+For us, emergencies usually mean sprinkler system leaks or active fire alarms.
+
+If a caller reports an emergency, the system should attempt to transfer them to our emergency dispatch team.
+
+If the transfer fails after about 60 seconds, the system should apologize and let the caller know that someone from our team will contact them shortly.
+
+Our office address is 1250 Commerce Street in Dallas.

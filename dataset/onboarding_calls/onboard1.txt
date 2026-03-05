@@ -1,0 +1,16 @@
+Thanks for setting this up. Let me clarify some of our operational details.
+
+Our office hours are Monday to Friday from 8 AM to 5 PM Central Time.
+
+Emergency calls include sprinkler leaks and fire alarm triggers. 
+If someone reports a sprinkler leak, that should be treated as urgent.
+
+During business hours, emergency calls should be transferred to our dispatch line immediately.
+
+If the call transfer fails after 60 seconds, the caller should be informed that dispatch will call them back shortly.
+
+For non-emergency issues like inspection scheduling or routine service requests, the system can collect the caller’s name and phone number and we will follow up.
+
+Our office address is 2145 Westfield Road, Houston.
+
+Also, we do not want the system to automatically create sprinkler jobs in ServiceTrade.

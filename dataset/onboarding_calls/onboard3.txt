@@ -1,0 +1,11 @@
+Let me go over our call handling rules.
+
+Our office hours are Monday through Friday from 9 AM to 6 PM Pacific Time.
+
+Emergency situations for us are mostly sprinkler pipe bursts or active fire alarms in a building.
+
+If an emergency is reported, the system should collect the caller’s name, phone number, and building address right away before attempting to transfer the call.
+
+After collecting those details, the call should be transferred to our dispatch number.
+
+If the transfer fails, the caller should be reassured that a technician will contact them shortly.

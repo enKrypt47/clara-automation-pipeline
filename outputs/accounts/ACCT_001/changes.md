@@ -1,0 +1,2 @@
+Type of root['business_hours'] changed from NoneType to dict and value changed from None to {'days': ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'], 'start': '08:00', 'end': '17:00', 'timezone': 'unknown'}.
+Type of root['office_address'] changed from NoneType to str and value changed from None to "2145 Westfield Rd Houston".
